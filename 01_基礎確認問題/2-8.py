@@ -16,7 +16,7 @@ print(sum1, sum2)
 
 # for i in range(101):
 #     if 35<=i and i<=75 and 50<=l[i] and l[i]<75: sum1 += l[i]
-#     if l[i] == 14 or l[i] == 84: sum2 += i
+#     if l[i] == 14 or l[i] == 84: sum2 += i 
 
 # print(sum1, sum2)
 
